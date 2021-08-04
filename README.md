@@ -27,3 +27,6 @@
 #### Airbnb public dataset: the original source can be found on this website:  https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 #### Neighborhood Tabulation Areas (NTA) public dataset: the original source can be found on this website: https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq
 #### 
+
+## Link to Tableau Public: 
+#### https://public.tableau.com/views/NYCAirbnb_16280850718870/NYCAirbnb?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
