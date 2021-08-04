@@ -22,3 +22,8 @@
 #### Matplotlib
 #### Statsmodels API 
 #### Warnings
+
+## Acknowledgements: 
+#### Airbnb public dataset: the original source can be found on this website:  https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+#### Neighborhood Tabulation Areas (NTA) public dataset: the original source can be found on this website: https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq
+#### 
