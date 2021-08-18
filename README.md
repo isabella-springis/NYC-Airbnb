@@ -51,9 +51,9 @@
 #### Through this analysis, we can better predict the price according to variables, such as: availability, host listings, minimum nights, reviews per month, total number of reviews. 
 #### Number of Reviews: The average price per night, the more reviews. Followed by least expensive, then most expensive.
 #### Reviews per Month: Excluding the outliers, the least expensive booking has the highest amount of reviews per month. Followed by average price, then most expensive.
-#### Minimum Nights (right): The least expensive and average price have the higher amount of minimum nights.
-#### Availability (left): Average price has the highest availability, least expensive has the least available.
-#### Host Listings (right): Higher host listings for bookings with average price.
+#### Minimum Nights: The least expensive and average price have the higher amount of minimum nights.
+#### Availability: Average price has the highest availability, least expensive has the least available.
+#### Host Listings: Higher host listings for bookings with average price.
 
 
 ## Acknowledgements: 
